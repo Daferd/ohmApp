@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ohmApp</string>
+    <string name="rkm">Codigo RKM</string>
+    <string name="calcular">Calcular</string>
+    <string name="banda1">Primera Banda</string>
+    <string name="banda2">Segunda Banda</string>
+    <string name="banda3">Multiplicador</string>
+    <string name="banda4">Tolerancia</string>
+    
+    <string-array name="coloresBanda">
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Purpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+
+    <string-array name="coloresTolerancia">
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+</resources>
